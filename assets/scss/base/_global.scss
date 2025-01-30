@@ -1,5 +1,8 @@
 .containerContent {
+  position: relative;
   max-width: 1200px;
   padding: 13px 26px;
   margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
 }
